@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: AGPL-3.0
 #
+# Maintainer:  LaughingMan
 # Maintainer:  Truocolo <truocolo@aol.com>
 # Maintainer:  Pellegrino Prevete <cGVsbGVncmlub3ByZXZldGVAZ21haWwuY29tCg== | base -d>
 
